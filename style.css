@@ -1,52 +1,52 @@
 @font-face {
     font-family: dirtchunk;
-    src: url(./fonts/Dirtchunk-0W0AR.otf);
+    src: url(./Dirtchunk-0W0AR.otf);
 }
 
 @font-face {
     font-family: Lobster;
-    src: url(./fonts/Lobster-Regular.ttf);
+    src: url(./Lobster-Regular.ttf);
 }
 
 @font-face{
     font-family: Gilroy;
-    src: url(./fonts/Gilroy-Black.ttf);
+    src: url(./Gilroy-Black.ttf);
 }
 @font-face{
     font-family: Gilroy;
-    src: url(./fonts/Gilroy-BlackItalic.ttf);
-}
-
-@font-face{
-    font-family: Gilroy;
-    src: url(./fonts/Gilroy-Bold.ttf);
-}
-
-
-@font-face{
-    font-family: Gilroy;
-    src: url(./fonts/Gilroy-BoldItalic.ttf);
+    src: url(./Gilroy-BlackItalic.ttf);
 }
 
 @font-face{
     font-family: Gilroy;
-    src: url(./fonts/Gilroy-ExtraBold.ttf);
+    src: url(./Gilroy-Bold.ttf);
 }
 
 
 @font-face{
     font-family: Gilroy;
-    src: url(./fonts/Gilroy-ExtraBoldItalic.ttf);
+    src: url(./Gilroy-BoldItalic.ttf);
 }
 
 @font-face{
     font-family: Gilroy;
-    src: url(./fonts/Gilroy-Heavy.ttf);
+    src: url(./Gilroy-ExtraBold.ttf);
+}
+
+
+@font-face{
+    font-family: Gilroy;
+    src: url(./Gilroy-ExtraBoldItalic.ttf);
 }
 
 @font-face{
     font-family: Gilroy;
-    src: url(./fonts/Gilroy-HeavyItalic.ttf);
+    src: url(./Gilroy-Heavy.ttf);
+}
+
+@font-face{
+    font-family: Gilroy;
+    src: url(./Gilroy-HeavyItalic.ttf);
 }
 
 
